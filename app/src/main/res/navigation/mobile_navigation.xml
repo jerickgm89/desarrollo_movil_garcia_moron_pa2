@@ -18,8 +18,8 @@
         tools:layout="@layout/fragment_register_book" />
 
     <fragment
-        android:id="@+id/nav_RegisterMagazin"
-        android:name="com.example.garcia_moron_jorge_pa2.ui.slideshow.SlideshowFragment"
+        android:id="@+id/nav_RegisterMagazine"
+        android:name="com.example.garcia_moron_jorge_pa2.ui.registerMagazine.RegisterMagazineFragment"
         android:label="@string/menu_slideshow"
-        tools:layout="@layout/fragment_slideshow" />
+        tools:layout="@layout/fragment_register_magazine" />
 </navigation>

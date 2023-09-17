@@ -13,7 +13,7 @@
             android:icon="@drawable/baseline_app_registration_24"
             android:title="@string/menu_gallery" />
         <item
-            android:id="@+id/nav_RegisterMagazin"
+            android:id="@+id/nav_RegisterMagazine"
             android:icon="@drawable/baseline_app_registration_24"
             android:title="@string/menu_slideshow" />
     </group>
